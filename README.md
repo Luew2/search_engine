@@ -305,7 +305,7 @@ There are two steps:
    Ensure that the timer on the bottom of the webpage is included in the screenshot.
    Add the screenshot to your git repo, and modify the `<img>` tag below to point to the screenshot.
 
-   <img src='screenshot.png' />
+   <img src='screenshot.PNG' />
 
 1. Commit and push your changes to github.
 
